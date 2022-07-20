@@ -1,10 +1,12 @@
 ### Hi there 👋
-header.png
+<img src="https://github.com/Elbam/ElbaM/blob/main/header.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
 <!--
 **Elbam/ElbaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-https://github.com/Elbam/ElbaM/blob/main/header.png
+
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
