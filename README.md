@@ -1,4 +1,4 @@
-src="https://github.com/Elbam/ElbaM/blob/main/header.png" alt="Elba Mujica - software designer and developer">
+<img src="https://github.com/Elbam/ElbaM/blob/main/header.png" alt="Elba Mujica - software designer and developer">
 
 
 
