@@ -127,5 +127,15 @@
 <div align="center"></div>
 <br />
 
+
+
+### Interests  
+vivir, correr, bicicletear , crochetear, ver películas, leer libros, oír música😃  
+
+<br />
+
+
+
+
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
