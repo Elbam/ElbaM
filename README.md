@@ -1,4 +1,3 @@
-### Hi there 👋
 <img src="https://github.com/Elbam/ElbaM/blob/main/header.png" alt="banner that says Sarah hart Landolt - software developer, artist, designer">
 <!--
 **Elbam/ElbaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
