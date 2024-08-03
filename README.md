@@ -75,7 +75,10 @@
 
 ### DevOps  
 <div align="center">  
-  
+
+
+<img style="margin: 10px" src="https://camo.githubusercontent.com/98624378980306b271f1e0fd75c6b2bf5f162baf9ec83ca5ab05df4aa1b31db4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f636b65722d3234393645443f6c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" alt="HTML5" height="50" />  
+
 </div>
 
 </td></tr></table>  
