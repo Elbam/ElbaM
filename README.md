@@ -120,8 +120,16 @@ src="https://camo.githubusercontent.com/55cedaf14b8525b77d55fde3a791c912f64efb77
 <a href="https://linkedin.com/in/elba-marina-mujica-romero-54155923" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+<a href="elbammujica.hashnode.dev" target="_blank">
+<img src=https://images.app.goo.gl/M3x4rGj5YF1V1caQ7)&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
+</a>  
+
 </div>  
+
+
   
+
+ 
 
 <br/>  
 
