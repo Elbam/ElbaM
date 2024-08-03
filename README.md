@@ -164,7 +164,7 @@ src="https://camo.githubusercontent.com/55cedaf14b8525b77d55fde3a791c912f64efb77
 
 
 ### Interests  
-vivir, correr, bicicletear , crochetear, ver películas, leer libros, oír música😃  
+vivir, correr, bicicletear , nadar, crochetear, ver películas, leer libros, oír música😃  
 
 <br />
 
