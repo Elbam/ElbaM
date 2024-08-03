@@ -23,7 +23,7 @@
 - ❓ Conozco todo el ciclo de Desarrollo de Software tradicional, ahora aprendiendo lo nuevo  
   
 
-- ⚡Nunca Parar de Aprender!  
+- ⚡Nunca Parar de Aprender! Entusiasta de la Automatizacion, la Mejora Continua, Flujos de Trabajo es decir Cultura DEVOPS para todo el Mundo!  
   
 
 <br/>  
