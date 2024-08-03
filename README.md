@@ -2,14 +2,6 @@
 
 
 
-### Elba Mujica  
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
-
-
 ### Soy Elba Mujica Especialista en Calidad del Software  
 ### <div align="center">Soy Analista de Sistemas Especialista en TIC desde hace mas de 25 años. Diplomada en Calidad en Procesos de Software, Seguridad de la Informacion y Procesos de e-learning.Actualmente trabajo en QA, cubriendo todo el ciclo desarrollo de Software, pero en mis tiempos libres me dedico a Especializarme en DEVOPS 🚀</div>  
   
