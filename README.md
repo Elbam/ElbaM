@@ -10,14 +10,14 @@
 
 
 
-### Soy Elba Mujica Trabajo en QA pero volviendo al Desarrollo  
-### <div align="center">Soy Analista de Sistemas Especialista en TIC desde hace mas de 25 años. Diplomada en Calidad en Procesos de Software, Seguridad de la Informacion y Procesos de e-learning.Actualmente trabajo en QA, cubriendo todo el ciclo desarrollo de Software, pero en mis tiempos libres me dedico a jugar con Python y el Data Análisis🚀</div>  
+### Soy Elba Mujica Especialista en Calidad del Software  
+### <div align="center">Soy Analista de Sistemas Especialista en TIC desde hace mas de 25 años. Diplomada en Calidad en Procesos de Software, Seguridad de la Informacion y Procesos de e-learning.Actualmente trabajo en QA, cubriendo todo el ciclo desarrollo de Software, pero en mis tiempos libres me dedico a Especilizarme en DEVOPS 🚀</div>  
   
 
 - 🔭 Actualmente trabajo en una empresa privada, diseñando Software propietario  
   
 
-- 🌱 Actualmente estoy aprendiendo Python y Data Análisis  
+- 🌱 Actualmente estoy aprendiendo Python, Azure, Docker Compose, Kubernetes, GCP entre otros    
   
 
 - ❓ Conozco todo el ciclo de Desarrollo de Software tradicional, ahora aprendiendo lo nuevo  
